@@ -1,0 +1,76 @@
+.main-container {
+  background-color: #1a436d;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0 0 0;
+}
+
+
+h1 {
+    color: white;
+}
+
+
+.top-content {
+  padding: 20px;
+  text-align: left;
+  flex: 1; 
+}
+
+.img-responsive {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+
+.bottom-section {
+  position: relative; 
+  width: 100%;
+  line-height: 0;
+  margin-top: 30px;
+}
+
+.house-bg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.button-overlay {
+  position: absolute; 
+  bottom: 20%;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 0 30px;
+}
+
+.side-icon {
+  width: 60px; 
+  height: auto;
+}
+
+.btn-kembali {
+  background: white;
+  border: none;
+  padding: 10px 35px;
+  border-radius: 25px;
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  cursor: pointer;
+}
+
+
+.img-responsive {
+  width: 90%;
+  max-width: 450px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px auto;
+  border-radius: 15px; 
+}
