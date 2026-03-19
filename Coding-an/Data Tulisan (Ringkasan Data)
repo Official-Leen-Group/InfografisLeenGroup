@@ -1,2 +1,42 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Statistik Banjir Di Indonesia</title>
+      <link rel="stylesheet" href="Statistik.css">
+  </head>
+  <body>
+      <div class="main-container">
+    
+    <div class="top-content">
+      <h1 class="title">Kejadian Banjir di <br> Tahun 2025</h1>
+      
+      <div class="card-section">
+        <img src="assets/images/Statistik/Card.png" alt="Card Statistik" class="img-responsive">
+      </div>
+      
+      <div class="table-section">
+        <img src="assets/images/Statistik/image 4.png" alt="Tabel Statistik" class="img-responsive">
+      </div>
+    </div>
 
-daduogaduasogdouwagda
+    <div class="bottom-section">
+      <img src="assets/images/Statistik/image 1.png" class="house-bg">
+      
+      <div class="button-overlay">
+        <a href="Diagram.html"><img src="assets/images/Statistik/Group 6.png" class="side-icon"></a>
+        
+        <a href="LandingPage.html"><button class="btn-kembali">Kembali</button></a>
+
+        <a href="Video.html"><img src="assets/images/Statistik/Group 10.png" class="side-icon"></a>
+
+        
+      </div>
+    </div>
+
+  </div>
+
+
+  </body>
+  </html>
